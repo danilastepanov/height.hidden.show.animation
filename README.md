@@ -52,3 +52,21 @@ function jsHeightAnimation(el, isReverse = false, onFinish = function(){}){
 	});
 }
 ```
+
+```html
+<div class="faq">
+            <div class="item">
+                <div class="ask">Lorem ipsum dolor sit amet</div>
+                <div class="answer open">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore
+                        magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation ullamco laboris nisi ut aliquip ex ea
+                        commodo consequat.
+                    </p>
+                 </div>
+            </div>
+	 </div>
+```
+
