@@ -2,6 +2,7 @@
 
 // There is a generic div .faq container. It has a .div with a .ask class and a .answer container with text. When you click on .ask, .answer opens and close with animation //
 
+```javascript
 window.addEventListener('load', function(){
 
 	let faq = document.querySelector('.faq');
@@ -50,4 +51,4 @@ function jsHeightAnimation(el, isReverse = false, onFinish = function(){}){
 		onFinish();
 	});
 }
-
+```
