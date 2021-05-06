@@ -1,5 +1,7 @@
 # Pure JS hidden/show animation
 
+// There is a generic .div container. It has a .div with a .ask class and a .answer container with text. //
+
 window.addEventListener('load', function(){
 
 	let faq = document.querySelector('.faq');
