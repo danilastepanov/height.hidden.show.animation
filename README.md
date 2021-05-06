@@ -1,4 +1,4 @@
-# Pure JS hidden/show animation
+# Pure JS height hidden/show animation
 
 There is a generic div .faq container. It has a .div with a .ask class and a .answer container with text. When you click on .ask, .answer opens and close with animation.
 
